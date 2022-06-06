@@ -1,0 +1,19 @@
+2022-05-09 03:18:48pm: testdatainsert.php --> 1-- nshutdowncomp = 1,count_shutdowncmds =2
+2022-05-09 03:18:51pm: reset.php -->  logoutClicked = 1
+2022-05-09 03:18:51pm: reset.php -->  logoutClicked = 1
+2022-05-09 03:18:55pm: logout.php -->  logoutClicked = 1
+2022-05-09 09:49:10am: turboconfigvalidation.php -->  date = 
+2022-05-09 09:49:10am: test_config.php : ---->  
+2022-05-09 09:49:10am: test_config.php : ---->  
+2022-05-09 09:49:10am: test_config.php : ---->  
+2022-05-09 03:21:38pm: testdatainsert.php --> 1-- nshutdownInit = 3, nshutdowncomp = 1,count_shutdowncmds =1
+2022-05-09 03:21:39pm: testdatainsert.php --> 2-- nshutdownInit = 3, nshutdowncomp = 1,count_shutdowncmds =2
+2022-05-09 03:23:01pm: reset.php -->  logoutClicked = 1
+2022-05-09 03:23:01pm: reset.php -->  logoutClicked = 1
+2022-05-09 03:23:39pm: logout.php -->  logoutClicked = 1
+2022-05-09 10:42:38am: turboconfigvalidation.php -->  date = 
+2022-05-09 10:42:39am: test_config.php : ---->  
+2022-05-09 10:42:39am: test_config.php : ---->  
+2022-05-09 10:42:39am: test_config.php : ---->  
+2022-05-09 10:42:55am: turboconfigvalidation.php -->  date = 
+2022-05-09 10:42:55am: turboconfigvalidation.php -->  date = 2022-05-01
